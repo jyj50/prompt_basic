@@ -8,5 +8,7 @@ dependencies = [
     "anthropic>=0.54.0",
     "langchain>=0.3.25",
     "langchain-openai>=0.3.24",
+    "langchain-pinecone>=0.2.8",
+    "pinecone-client>=6.0.0",
     "python-dotenv>=1.1.0",
 ]
